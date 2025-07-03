@@ -34,7 +34,12 @@ Languages: Python | Java | JavaScript | HTML | CSS | SQL
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TmartinsA224k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/TmartinsA224k/TmartinsA224k/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TmartinsA224k/TmartinsA224k/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TmartinsA224k/TmartinsA224k/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/TmartinsA224k/TmartinsA224k/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
           
           
