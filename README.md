@@ -28,11 +28,6 @@ Languages: Python | Java | JavaScript | HTML | CSS | SQL
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  />
 
 
-<div>
-<a href="https://github.com/TmartinsA224k">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TmartinsA224k&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=TmartinsA224k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TmartinsA224k/TmartinsA224k/output/github-contribution-grid-snake-dark.svg" />
