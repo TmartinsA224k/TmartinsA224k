@@ -35,6 +35,7 @@ Languages: Python | Java | JavaScript | HTML | CSS | SQL
 </div>
 
 
+![Snake animation](https://github.com/TmartinsA224k/TmartinsA224k/blob/output/github-contribution-grid-snake.svg)
           
           
           
